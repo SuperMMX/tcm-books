@@ -1,0 +1,18 @@
+:imagesdir: .
+
+include::20141014-钱不是万能的但中医不谈钱也是万万不能的.adoc[]
+
+include::20141008-正安立新七针培训课七问解答.adoc[]
+
+include::20140830-不为良相便为良医.adoc[]
+
+include::20140523-针所不及.adoc[]
+
+include::20140326-灵枢官能篇解读（下）.adoc[]
+
+include::20140324-灵枢官能篇解读（上）.adoc[]
+
+include::20140322-冰台看九针.adoc[]
+
+include::20140314-九针的核心思想.adoc[]
+
