@@ -1,5 +1,7 @@
 = 灵枢微言
 穆超
+:doctype: book
+:front-cover-image: image:img/cover.png[]
 
 include::01-浅谈九针.adoc[]
 
