@@ -2,6 +2,7 @@
 穆超
 :doctype: book
 :front-cover-image: image:img/cover.png[]
+:imagesdir: .
 
 include::01-浅谈九针.adoc[]
 
