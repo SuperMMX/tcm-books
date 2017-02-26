@@ -1,5 +1,8 @@
 = 非系列
 王非
+:doctype: book
+
+:imagesdir: .
 
 include::01-正经说.adoc[]
 
@@ -40,3 +43,4 @@ include::18-再说督脉.adoc[]
 include::19-骨空论之膝痛部分.adoc[]
 
 include::20-停刊启事.adoc[]
+
