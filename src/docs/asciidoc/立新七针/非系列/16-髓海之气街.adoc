@@ -2,7 +2,7 @@
 王非
 2015-10-20 00:00
 
-image::img/王非.png[]
+include::王非.adoc[]
 
 [quote,《灵枢·海论》]
 ____
