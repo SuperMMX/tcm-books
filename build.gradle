@@ -1,0 +1,33 @@
+buildscript {
+    dependencies {
+        classpath 'org.asciidoctor:asciidoctorj-epub3:1.5.0-alpha.6'
+        classpath 'org.asciidoctor:asciidoctorj-groovy-dsl:1.0.0.Alpha2'
+    }
+}
+
+plugins {
+    id "org.asciidoctor.convert" version "1.5.3"
+}
+
+repositories {
+    mavenLocal()
+    jcenter()
+}
+
+asciidoctorj {
+    version = '1.6.0-SNAPSHOT'
+}
+
+asciidoctor.outputs.upToDateWhen { false }
+
+asciidoctor {
+    backends 'html5', 'epub3'
+    sourceDir = file('src/docs/asciidoc')
+    sources {
+        include project.ext.file
+    }
+    outputDir = file('build/')
+
+    extensions {
+    }
+}
