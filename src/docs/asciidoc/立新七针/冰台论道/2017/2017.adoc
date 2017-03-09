@@ -1,5 +1,7 @@
 :imagesdir: .
 
+include::20170308-经脉——卫气经脉.adoc[]
+
 include::20170301-经脉——营气经脉.adoc[]
 
 include::20170225-经脉上下游理论的运用.adoc[]
