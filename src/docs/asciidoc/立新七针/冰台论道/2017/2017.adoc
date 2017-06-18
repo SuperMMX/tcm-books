@@ -1,5 +1,15 @@
 :imagesdir: .
 
+include::20170517-经脉——三焦.adoc[]
+
+include::20170510-经脉——气街四海.adoc[]
+
+include::20170412-经脉——开合枢.adoc[]
+
+include::20170405-经脉——五输穴.adoc[]
+
+include::20170322-经脉——标本根结.adoc[]
+
 include::20170308-经脉——卫气经脉.adoc[]
 
 include::20170301-经脉——营气经脉.adoc[]
