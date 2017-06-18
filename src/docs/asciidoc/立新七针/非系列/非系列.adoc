@@ -44,3 +44,7 @@ include::19-骨空论之膝痛部分.adoc[]
 
 include::20-停刊启事.adoc[]
 
+include::21-天人相应的正确打开方式（一）.adoc[]
+
+include::22-天人相应的正确打开方式（二）.adoc[]
+
