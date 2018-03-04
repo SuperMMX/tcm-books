@@ -1,12 +1,12 @@
 buildscript {
     dependencies {
-        classpath 'org.asciidoctor:asciidoctorj-epub3:1.5.0-alpha.6'
-        classpath 'org.asciidoctor:asciidoctorj-groovy-dsl:1.0.0.Alpha2'
+        classpath 'org.asciidoctor:asciidoctorj-epub3:1.5.0-alpha.8.1'
+        classpath 'org.asciidoctor:asciidoctorj-groovy-dsl:1.6.0-alpha.1'
     }
 }
 
 plugins {
-    id "org.asciidoctor.convert" version "1.5.3"
+    id "org.asciidoctor.convert" version "1.5.7"
 }
 
 repositories {
@@ -15,7 +15,7 @@ repositories {
 }
 
 asciidoctorj {
-    version = '1.6.0-SNAPSHOT'
+    version = '1.6.0-alpha.6'
 }
 
 asciidoctor.outputs.upToDateWhen { false }
